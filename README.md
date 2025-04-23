@@ -14,7 +14,7 @@
 | :----------------------------------------------------: | :---------------------------------------------------: |
 | <img width="1624" alt="Light Theme" src="./IMG/1.png"> | <img width="1624" alt="Dark Theme" src="./IMG/2.png"> |
 | <img width="1624" alt="Light Theme" src="./IMG/3.png"> | <img width="1624" alt="Dark Theme" src="./IMG/4.png"> |
-| <img width="1624" alt="Light Theme" src="./IMG/5.png"> |                                                       |
+| <img width="1624" alt="Light Theme" src="./IMG/5.png"> | <img width="1624" alt="Light Theme" src="./IMG/6.png">|
 
 ## 编译
 
