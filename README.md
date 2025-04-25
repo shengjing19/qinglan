@@ -52,7 +52,7 @@
 
    CLion_ShengXiaoBooter与CLion_ShengXiaoBooterUpData采用基本相同的目录结构因此这里仅仅上传CLion_ShengXiaoBooterUpData的.idea build example文件夹，src使用CLion_ShengXiaoBooter的即可
 
-2. CMark与C++与QT6.4组合，使用CLion编译器进行编写
+2. CMark与C++与QT6.5组合，使用CLion编译器进行编写
 
 ## 服务端(QingLan_Server)
 
@@ -61,6 +61,7 @@
 ## 注意
 
 1.编译时注意example中的cmake文件CURL库引用是用的绝对路径，编译时改成你当前路径
+  和项目总CmakeLists中的miniGW路径也是采用绝对路径
 
 2.本项目使用了mysql数据库，具体qt中引入mysql自行网上查找
 
